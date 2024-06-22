@@ -32,3 +32,12 @@ in your backend `npm run serve` for start node server and `npm run start` for fr
 
 
 ## Project Screenshot
+
+## Creating the Main project which task we want to create
+![Screenshot 2024-06-22 080408](https://github.com/Mayank1242/Task-Management-Using-MERN/assets/90859312/29502eba-50c8-4302-a994-d17c8d1b4f90)
+
+## Adding Tasks and Managing them
+![project1](https://github.com/Mayank1242/Task-Management-Using-MERN/assets/90859312/2284023a-788f-434c-ab6c-34344268da10)
+
+
+
